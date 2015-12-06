@@ -1,0 +1,1 @@
+This project contains code and images to support the blog post which can be found here.  The goal is to read, manipulate and write images using Swift code, without using Xcode.
